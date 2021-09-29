@@ -4,6 +4,8 @@ A JS file containing some example methods of creating, deleting, reading as well
 
 ## Wanna try it?
 
+You may want to take a first look on `index.js` file
+
 Clone this repository
 
 Open Terminal and go to this repo's directory and install all dependencies
